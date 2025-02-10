@@ -114,7 +114,7 @@ int main()
     
     
     // Parameterized constructor
-    BankAccount userAcc("Priya Patil", 123456, "Savings", 5000.00); 
+    BankAccount userAcc("Taslima", 123456, "Savings", 5000.00); 
 	cout<<endl<<endl<<"Calling Parameterized Constructor!"<<endl<<endl; 
     //calling all Accessor methods
     cout<<"Account Holder :- "<<userAcc.getAccountHolder()<<endl;
